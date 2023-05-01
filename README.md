@@ -1,13 +1,13 @@
 # Airport Database System
 ### Author: Szymon Siąkała
 
-#### Task:
+## Task:
 Program will be an operational database for some airports. It will contain all information about passengers, flights and planes. Users will be able to add/delete/modify information stored in the database (txt files). Program will contain a search engine to help the user find the requested information like certain passengers, all flights to NY, all the people with luggage etc. Implement passenger, flight and plane as classes and use operators like for example assign and stream operators. Program will correctly manage the memory and use object-oriented programming techniques like streams and exceptions.
 
-#### Problem analysis:
+## Problem analysis:
 To solve this task we will use classes to store information about passengers, planes, flights and crew members. Search engine will be prepared as a separate function. We will implement modifying and deleting data as methods in classes. We will implement a user interface and use exceptions to detect errors.
 
-#### External specification:
+## External specification:
 After turning on the program, users have to wait until data is loaded from files. Each **#** sign represents one flight loaded. If  no problems are detected in the process, the main menu should appear. To choose the proper option, users have to input numbers next to it. Every time something goes wrong, the program will ask the user if he wants to try again. To do that user has to input y or the program will shut down itself. User has few options to choose from:
 ##### **Inspect database**
 All database will display to user.
@@ -20,7 +20,7 @@ Program will save our current database to text files. Each **#** sign represents
 ##### **Exit**
 Program will shut down itself.
 
-#### Internal specification:
+## Internal specification:
 Program is using 4 classes and few functions. Classes:
 ##### **Passenger**
 Stores informations like: name, surname, age, nationality, flight number as strings or integers and information about luggage as bool. Class has 2 constructors, destructor, display method and method that will modify the data.
@@ -48,6 +48,6 @@ Menu used to modify the data in database. It is based on **switch()** function a
 ##### **int main()**
 Here is the **main menu** where the user will be redirected after starting the program. It is based on the **switch()** function like the **modify_menu()** and will direct user to the right funciton after choosing desired option. Function will collect bool values from called functions and pass them to the **try_again()** function to check if the user would like to continue using the program. The returned value is saved to the bool variable **statement** and is used to check whether the user wants to continue or not. If the **statement** is true we will go back to the beginning of the **main()** function, if not program will clear our database, check for the memory leaks and shut down itself.
 
-#### Conclusions:
+## Conclusions:
 When asked if he wants to continue or quit the program, the user has to enter anything with the first character “ y ” ot “ Y ” to continue. Inputting data correctly is crucial for the program to work, if the user will make a mistake the program will not correct it or show where the user made an error, unless the error occurred while converting data from string to integer. It is not recommended to delete database files. Program will handle it but won't
 recreate them or start properly. The user interface is simple and clear, user just need to follow the instructions displayed by the program. Function **_CrtDumpMemoryLeaks()** will detect a data leak, but I discovered that it is caused by the global vector **all_flights** being deallocated after the **_CrtDumpMemoryLeaks()** is executed.
