@@ -1,0 +1,5 @@
+Boeing#737-400#2#162#5#5#1289
+Boeing#737-900#2#215#5#5#1337
+Bombardier#CRJ-200#3#50#3#3#1666
+Gulfstream#IV#12#12#2#3#2480
+Piaggio#Avanti#7#8#1#2#3499

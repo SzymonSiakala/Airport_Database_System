@@ -1,0 +1,27 @@
+﻿  Airport Database System.cpp
+C:\Users\MechDron\Desktop\Studia\S1 sem. 3\Computer Programming\Laboratories\3183f20c-gr21-repo\Project\Airport Database System\Airport Database System.cpp(561,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MechDron\Desktop\Studia\S1 sem. 3\Computer Programming\Laboratories\3183f20c-gr21-repo\Project\Airport Database System\Airport Database System.cpp(630,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MechDron\Desktop\Studia\S1 sem. 3\Computer Programming\Laboratories\3183f20c-gr21-repo\Project\Airport Database System\Airport Database System.cpp(678,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MechDron\Desktop\Studia\S1 sem. 3\Computer Programming\Laboratories\3183f20c-gr21-repo\Project\Airport Database System\Airport Database System.cpp(724,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MechDron\Desktop\Studia\S1 sem. 3\Computer Programming\Laboratories\3183f20c-gr21-repo\Project\Airport Database System\Airport Database System.cpp(775,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MechDron\Desktop\Studia\S1 sem. 3\Computer Programming\Laboratories\3183f20c-gr21-repo\Project\Airport Database System\Airport Database System.cpp(777,39): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MechDron\Desktop\Studia\S1 sem. 3\Computer Programming\Laboratories\3183f20c-gr21-repo\Project\Airport Database System\Airport Database System.cpp(824,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MechDron\Desktop\Studia\S1 sem. 3\Computer Programming\Laboratories\3183f20c-gr21-repo\Project\Airport Database System\Airport Database System.cpp(870,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MechDron\Desktop\Studia\S1 sem. 3\Computer Programming\Laboratories\3183f20c-gr21-repo\Project\Airport Database System\Airport Database System.cpp(919,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MechDron\Desktop\Studia\S1 sem. 3\Computer Programming\Laboratories\3183f20c-gr21-repo\Project\Airport Database System\Airport Database System.cpp(921,39): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MechDron\Desktop\Studia\S1 sem. 3\Computer Programming\Laboratories\3183f20c-gr21-repo\Project\Airport Database System\Airport Database System.cpp(957,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MechDron\Desktop\Studia\S1 sem. 3\Computer Programming\Laboratories\3183f20c-gr21-repo\Project\Airport Database System\Airport Database System.cpp(1002,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MechDron\Desktop\Studia\S1 sem. 3\Computer Programming\Laboratories\3183f20c-gr21-repo\Project\Airport Database System\Airport Database System.cpp(1060,39): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MechDron\Desktop\Studia\S1 sem. 3\Computer Programming\Laboratories\3183f20c-gr21-repo\Project\Airport Database System\Airport Database System.cpp(1112,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MechDron\Desktop\Studia\S1 sem. 3\Computer Programming\Laboratories\3183f20c-gr21-repo\Project\Airport Database System\Airport Database System.cpp(1227,66): warning C4101: "ia": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\MechDron\Desktop\Studia\S1 sem. 3\Computer Programming\Laboratories\3183f20c-gr21-repo\Project\Airport Database System\Airport Database System.cpp(1231,62): warning C4101: "oor": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\MechDron\Desktop\Studia\S1 sem. 3\Computer Programming\Laboratories\3183f20c-gr21-repo\Project\Airport Database System\Airport Database System.cpp(1235,59): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+  Crew.cpp
+  Flight.cpp
+  Passenger.cpp
+  Plane.cpp
+C:\Users\MechDron\Desktop\Studia\S1 sem. 3\Computer Programming\Laboratories\3183f20c-gr21-repo\Project\Airport Database System\Plane.cpp(109,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MechDron\Desktop\Studia\S1 sem. 3\Computer Programming\Laboratories\3183f20c-gr21-repo\Project\Airport Database System\Plane.cpp(124,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Generowanie kodu...
+C:\Users\MechDron\Desktop\Studia\S1 sem. 3\Computer Programming\Laboratories\3183f20c-gr21-repo\Project\Airport Database System\Airport Database System.cpp(1167): warning C4715: "modify_menu”: niewszystkie ścieżki kodu zwracają wartość
+  Airport Database System.vcxproj -> C:\Users\MechDron\Desktop\Studia\S1 sem. 3\Computer Programming\Laboratories\3183f20c-gr21-repo\Project\Airport Database System\Debug\Airport Database System.exe

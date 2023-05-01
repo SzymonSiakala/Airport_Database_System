@@ -1,0 +1,5 @@
+1289#Warsaw#NY
+1337#Amsterdam#Warsaw
+1666#Pekin#Warsaw
+2480#Ankara#Warsaw
+3499#Warsaw#London

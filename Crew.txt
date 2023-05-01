@@ -1,0 +1,16 @@
+Pilot#Jimmy#Doolittle#32#USA#1289
+Pilot#Noel#Wien#54#USA#1289
+Stewardess#Heinrich#Kubis#61#Germany#1289
+Stewardess#Ellen#Church#22#USA#1289
+Stewardess#Edith#Lauterbach#25#USA#1289
+Pilot#Robert#Hoover#25#USA#1337
+Pilot#Charles#Lindbergh#56#USA#1337
+Stewardess#Ruth#Taylor#31#USA#1337
+Stewardess#Momi#Durrani#32#Pakistan#1337
+Stewardess#Neerja#Bhanot#29#India#1337
+Pilot#Charles#Yeager#48#USA#1666
+Pilot#Scott#Crossfield#30#USA#1666
+Stewardess#Ulrike#Patzelt#30#Germany#1666
+Pilot#Erich#Hartmann#29#Germany#2480
+Stewardess#Johanna#Sigurdardottir#28#Iceland#2480
+Pilot#Jean#Mermoz#52#France#3499
